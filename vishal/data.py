@@ -1,7 +1,8 @@
 import pandas as pd
-df=pd.read_csv('/home/student/vishal/class-work/vishal/mn.csv')
-print(df.head())
-print(df.describe())
+import matplotlib.pyplot as plt
+df=pd.read_csv('/home/daftpunk/Desktop/work stuff/class-work/vishal/new.csv')
+#print(df.head())
+'''print(df.describe())
 print(df.info())
 print(df.dtypes)
 print(df.shape)
@@ -17,4 +18,9 @@ print(df.loc[1:4])
 print(df.query('Year>2019'))
 #print(df.insert(pos,'Year',values))
 #print(df.isnull())
-print(df.dropna())
+print(df.dropna())'''
+a=list(df["index"])
+z=list(df["Value"])
+plt.title('practice')
+plt.bar(a,z,color='r')
+print(plt.show())
