@@ -1,0 +1,17 @@
+index,Direction,Year,Date,Weekday,Country,Commodity,Transport_Mode,Measure,Value,Cumulative
+1,Exports,2015,01/01/2015,Thursday,All,All,All,$,104000000,104000000
+2,Exports,2015,02/01/2015,Friday,All,All,All,$,96000000,200000000
+3,Exports,2015,03/01/2015,Saturday,All,All,All,$,61000000,262000000
+4,Exports,2015,04/01/2015,Sunday,All,All,All,$,74000000,336000000
+5,Exports,2015,05/01/2015,Monday,All,All,All,$,105000000,442000000
+6,Exports,2015,06/01/2015,Tuesday,All,All,All,$,76000000,518000000
+7,Exports,2015,07/01/2015,Wednesday,All,All,All,$,59000000,577000000
+8,Exports,2015,08/01/2015,Thursday,All,All,All,$,111000000,688000000
+9,Exports,2015,09/01/2015,Friday,All,All,All,$,98000000,786000000
+10,Exports,2015,10/01/2015,Saturday,All,All,All,$,89000000,875000000
+11,Exports,2015,11/01/2015,Sunday,All,All,All,$,111000000,986000000
+12,Exports,2015,12/01/2015,Monday,All,All,All,$,161000000,1147000000
+13,Exports,2015,13/01/2015,Tuesday,All,All,All,$,96000000,1242000000
+14,Exports,2015,14/01/2015,Wednesday,All,All,All,$,83000000,1325000000
+15,Exports,2015,15/01/2015,Thursday,All,All,All,$,109000000,1434000000
+16,Exports,2015,16/01/2015,Friday,All,All,All,$,155000000,1589000000
